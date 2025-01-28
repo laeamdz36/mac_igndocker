@@ -1,3 +1,4 @@
 Documento referencia de docker compose compartidfo por Cesar Roman:
 
-./doccker_compse.yml
+refernece file from Jakub
+./doccker_compse_ref.yml
